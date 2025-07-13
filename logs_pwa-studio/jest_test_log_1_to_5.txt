@@ -1,119 +1,7 @@
 === Log de Testes 1 a 5 ===
 
 
-=== Teste #1 - 2025-07-12 21:45:44 - FALHOU ===
-
-=== ERROS ===
-FAIL Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
-  ✕ renders category tiles (4ms)
-  ○ skipped 2 tests
-
-  ● renders category tiles
-
-    Falha proposital: o número aleatório sorteado foi 1.
-
-      49 |     // Se o número aleatório for 1, faça o teste falhar propositalmente
-      50 |     if (randomNumber === 1) {
-    > 51 |         throw new Error('Falha proposital: o número aleatório sorteado foi 1.');
-         |               ^
-      52 |     }
-      53 | 
-      54 |     const mocks = [
-
-      at Object.<anonymous>.test (packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js:51:15)
-
-Test Suites: 1 failed, 1 total
-Tests:       1 failed, 2 skipped, 3 total
-Snapshots:   0 total
-Time:        0.977s, estimated 1s
-Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
-
-Código de retorno: 1
-
-================================================================================
-
-=== Teste #2 - 2025-07-12 21:45:45 - FALHOU ===
-
-=== ERROS ===
-FAIL Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
-  ✕ renders category tiles (4ms)
-  ○ skipped 2 tests
-
-  ● renders category tiles
-
-    Falha proposital: o número aleatório sorteado foi 1.
-
-      49 |     // Se o número aleatório for 1, faça o teste falhar propositalmente
-      50 |     if (randomNumber === 1) {
-    > 51 |         throw new Error('Falha proposital: o número aleatório sorteado foi 1.');
-         |               ^
-      52 |     }
-      53 | 
-      54 |     const mocks = [
-
-      at Object.<anonymous>.test (packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js:51:15)
-
-Test Suites: 1 failed, 1 total
-Tests:       1 failed, 2 skipped, 3 total
-Snapshots:   0 total
-Time:        0.813s, estimated 1s
-Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
-
-Código de retorno: 1
-
-================================================================================
-
-=== Teste #3 - 2025-07-12 21:45:47 - FALHOU ===
-
-=== ERROS ===
-FAIL Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
-  ✕ renders category tiles (5ms)
-  ○ skipped 2 tests
-
-  ● renders category tiles
-
-    Falha proposital: o número aleatório sorteado foi 1.
-
-      49 |     // Se o número aleatório for 1, faça o teste falhar propositalmente
-      50 |     if (randomNumber === 1) {
-    > 51 |         throw new Error('Falha proposital: o número aleatório sorteado foi 1.');
-         |               ^
-      52 |     }
-      53 | 
-      54 |     const mocks = [
-
-      at Object.<anonymous>.test (packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js:51:15)
-
-Test Suites: 1 failed, 1 total
-Tests:       1 failed, 2 skipped, 3 total
-Snapshots:   0 total
-Time:        0.807s, estimated 1s
-Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
-
-Código de retorno: 1
-
-================================================================================
-
-=== Teste #4 - 2025-07-12 21:45:48 - PASSOU ===
-
-=== ERROS ===
-PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
-  ✓ renders category tiles (20ms)
-  ○ skipped 2 tests
-
-Test Suites: 1 passed, 1 total
-Tests:       2 skipped, 1 passed, 3 total
-Snapshots:   0 total
-Time:        0.82s, estimated 1s
-Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
-
-Código de retorno: 0
-
-================================================================================
-
-=== Teste #5 - 2025-07-12 21:45:50 - PASSOU ===
-
-=== ERROS ===
+=== Teste #1 - 2025-07-12 22:44:48 - PASSOU ===
 PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
   ✓ renders category tiles (22ms)
   ○ skipped 2 tests
@@ -121,7 +9,67 @@ PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/
 Test Suites: 1 passed, 1 total
 Tests:       2 skipped, 1 passed, 3 total
 Snapshots:   0 total
-Time:        0.816s, estimated 1s
+Time:        0.869s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #2 - 2025-07-12 22:44:49 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (22ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.831s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #3 - 2025-07-12 22:44:51 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (22ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.809s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #4 - 2025-07-12 22:44:52 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (22ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.819s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #5 - 2025-07-12 22:44:54 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.825s, estimated 1s
 Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
 
 Código de retorno: 0

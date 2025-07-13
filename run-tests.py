@@ -6,8 +6,8 @@ from datetime import datetime
 # ============= CONFIGURAÇÕES QUE PODEM SER ALTERADAS =============
 PROJECT_ROOT = "projects/pwa-studio"
 LOG_DIRECTORY = "logs_pwa-studio"
-TOTAL_RUNS = 20  # Reduzido para testes, altere para 1000 depois
-LOG_INTERVAL = 5  # Reduzido para testes, altere para 20 depois
+TOTAL_RUNS = 20 
+LOG_INTERVAL = 5
 
 COMMAND = [
     'npx', 'jest', 
@@ -50,9 +50,13 @@ class TestLogger:
                 status = "FALHOU" if test['failed'] else "PASSOU"
                 log_file.write(f"\n=== Teste #{test['run_number']} - {test['timestamp']} - {status} ===\n")
                 log_file.write(test['output'])
-                if test['error']:
+                
+                # Mostra a seção de ERROS apenas se houver erros relevantes
+                if test['failed'] or ("error" in test['error'].lower() and "PASS" not in test['error']):
                     log_file.write('\n=== ERROS ===\n')
-                    log_file.write(test['error'])
+
+                log_file.write(test['error'])
+                
                 log_file.write(f"\nCódigo de retorno: {test['returncode']}\n")
                 log_file.write('\n' + '='*80 + '\n')
             
@@ -168,22 +172,22 @@ def main():
     
     os.chdir(original_dir)
     
-    if failed_tests:
-        report_filename = os.path.join(log_dir, 'failed_tests_report.txt')
-        with open(report_filename, 'w') as report_file:
-            report_file.write('=== RELATÓRIO DE TESTES FALHADOS ===\n\n')
-            report_file.write(f'Total de testes executados: {TOTAL_RUNS}\n')
-            report_file.write(f'Total de falhas: {len(failed_tests)}\n')
-            report_file.write(f'Taxa de falha: {len(failed_tests)/TOTAL_RUNS*100:.2f}%\n\n')
-            
-            for fail in failed_tests:
-                report_file.write(f'Teste #{fail["run_number"]} - {fail["timestamp"]} (Código: {fail["returncode"]}):\n')
-                report_file.write(fail['info'])
-                report_file.write('\n' + '='*80 + '\n\n')
+    report_filename = os.path.join(log_dir, 'failed_tests_report.txt')
+    with open(report_filename, 'w') as report_file:
+        report_file.write('=== RELATÓRIO DE TESTES FALHADOS ===\n\n')
+        report_file.write(f'Total de testes executados: {TOTAL_RUNS}\n')
+        report_file.write(f'Total de falhas: {len(failed_tests)}\n')
+        report_file.write(f'Taxa de falha: {len(failed_tests)/TOTAL_RUNS*100:.2f}%\n\n')
         
-        print(f'\nRelatório de testes falhados salvo em {os.path.abspath(report_filename)}')
+        for fail in failed_tests:
+            report_file.write(f'Teste #{fail["run_number"]} - {fail["timestamp"]} (Código: {fail["returncode"]}):\n')
+            report_file.write(fail['info'])
+            report_file.write('\n' + '='*80 + '\n\n')
+        
+    if failed_tests:
+        print(f'\nOuveram falhas!! Relatório de testes falhados salvo em {os.path.abspath(report_filename)}')
     else:
-        print('\nTodos os testes passaram sem falhas!')
+        print(f'\nTodos os testes passaram. Relatório de testes salvo em {os.path.abspath(report_filename)}')
 
 if __name__ == '__main__':
     main()
