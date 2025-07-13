@@ -1,0 +1,36 @@
+=== RELATÓRIO DE TESTES FALHADOS ===
+
+Total de testes executados: 20
+Total de falhas: 5
+Taxa de falha: 25.00%
+
+Teste #1 - 2025-07-12 21:45:44 (Código: 1):
+● renders category tiles
+
+    Falha proposital: o número aleatório sorteado foi 1.
+================================================================================
+
+Teste #2 - 2025-07-12 21:45:45 (Código: 1):
+● renders category tiles
+
+    Falha proposital: o número aleatório sorteado foi 1.
+================================================================================
+
+Teste #3 - 2025-07-12 21:45:47 (Código: 1):
+● renders category tiles
+
+    Falha proposital: o número aleatório sorteado foi 1.
+================================================================================
+
+Teste #6 - 2025-07-12 21:45:51 (Código: 1):
+● renders category tiles
+
+    Falha proposital: o número aleatório sorteado foi 1.
+================================================================================
+
+Teste #14 - 2025-07-12 21:46:04 (Código: 1):
+● renders category tiles
+
+    Falha proposital: o número aleatório sorteado foi 1.
+================================================================================
+
