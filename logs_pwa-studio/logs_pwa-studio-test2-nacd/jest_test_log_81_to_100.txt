@@ -1,0 +1,324 @@
+=== Log de Testes 81 a 100 ===
+
+
+=== Teste #81 - 2025-07-13 19:00:50 - PASSOU ===
+(node:131126) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (22ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.217s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #82 - 2025-07-13 19:02:02 - PASSOU ===
+(node:131283) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.143s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #83 - 2025-07-13 19:03:29 - PASSOU ===
+(node:131450) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.125s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #84 - 2025-07-13 19:04:51 - PASSOU ===
+(node:131606) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (22ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.145s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #85 - 2025-07-13 19:06:10 - PASSOU ===
+(node:131766) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (22ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.149s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #86 - 2025-07-13 19:07:22 - PASSOU ===
+(node:131918) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.128s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #87 - 2025-07-13 19:08:36 - PASSOU ===
+(node:132068) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.125s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #88 - 2025-07-13 19:09:56 - PASSOU ===
+(node:132223) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.171s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #89 - 2025-07-13 19:11:19 - PASSOU ===
+(node:132374) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.145s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #90 - 2025-07-13 19:12:40 - PASSOU ===
+(node:132526) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.126s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #91 - 2025-07-13 19:13:58 - PASSOU ===
+(node:132676) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.247s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #92 - 2025-07-13 19:15:07 - PASSOU ===
+(node:132840) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.125s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #93 - 2025-07-13 19:16:37 - PASSOU ===
+(node:132993) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.16s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #94 - 2025-07-13 19:17:58 - PASSOU ===
+(node:133144) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.13s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #95 - 2025-07-13 19:19:22 - PASSOU ===
+(node:133298) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (23ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.346s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #96 - 2025-07-13 19:20:52 - PASSOU ===
+(node:133451) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.122s, estimated 2s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #97 - 2025-07-13 19:22:11 - PASSOU ===
+(node:133604) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (27ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.335s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #98 - 2025-07-13 19:23:24 - PASSOU ===
+(node:133814) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (29ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.466s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #99 - 2025-07-13 19:24:59 - PASSOU ===
+(node:134030) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (22ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.762s, estimated 2s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #100 - 2025-07-13 19:27:15 - PASSOU ===
+(node:134320) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (45ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.807s, estimated 2s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

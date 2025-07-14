@@ -1,0 +1,304 @@
+=== Log de Testes 761 a 780 ===
+
+
+=== Teste #761 - 2025-07-13 00:57:11 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.817s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #762 - 2025-07-13 00:57:13 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.809s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #763 - 2025-07-13 00:57:14 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.82s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #764 - 2025-07-13 00:57:16 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (26ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.798s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #765 - 2025-07-13 00:57:17 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (20ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.816s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #766 - 2025-07-13 00:57:19 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.814s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #767 - 2025-07-13 00:57:20 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.813s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #768 - 2025-07-13 00:57:22 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.82s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #769 - 2025-07-13 00:57:23 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (20ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.817s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #770 - 2025-07-13 00:57:25 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.83s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #771 - 2025-07-13 00:57:26 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.822s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #772 - 2025-07-13 00:57:28 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.811s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #773 - 2025-07-13 00:57:30 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (20ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.807s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #774 - 2025-07-13 00:57:31 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (22ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.815s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #775 - 2025-07-13 00:57:33 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.801s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #776 - 2025-07-13 00:57:34 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.819s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #777 - 2025-07-13 00:57:36 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.803s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #778 - 2025-07-13 00:57:37 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.803s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #779 - 2025-07-13 00:57:39 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.8s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #780 - 2025-07-13 00:57:40 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js
+  ✓ renders category tiles (21ms)
+  ○ skipped 2 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       2 skipped, 1 passed, 3 total
+Snapshots:   0 total
+Time:        0.825s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CategoryList\/__tests__\/categoryList.spec.js/i with tests matching "renders category tiles".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

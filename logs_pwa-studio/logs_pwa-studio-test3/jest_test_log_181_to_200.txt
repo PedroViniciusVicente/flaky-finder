@@ -1,0 +1,304 @@
+=== Log de Testes 181 a 200 ===
+
+
+=== Teste #181 - 2025-07-13 13:09:53 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.896s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #182 - 2025-07-13 13:09:55 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.862s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #183 - 2025-07-13 13:09:56 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.879s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #184 - 2025-07-13 13:09:58 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.867s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #185 - 2025-07-13 13:09:59 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.867s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #186 - 2025-07-13 13:10:01 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.86s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #187 - 2025-07-13 13:10:03 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.878s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #188 - 2025-07-13 13:10:04 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.883s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #189 - 2025-07-13 13:10:06 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.877s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #190 - 2025-07-13 13:10:07 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.867s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #191 - 2025-07-13 13:10:09 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.868s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #192 - 2025-07-13 13:10:11 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.87s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #193 - 2025-07-13 13:10:12 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.862s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #194 - 2025-07-13 13:10:14 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.872s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #195 - 2025-07-13 13:10:15 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.873s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #196 - 2025-07-13 13:10:17 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.879s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #197 - 2025-07-13 13:10:19 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.876s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #198 - 2025-07-13 13:10:20 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.873s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #199 - 2025-07-13 13:10:22 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.877s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #200 - 2025-07-13 13:10:23 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.866s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

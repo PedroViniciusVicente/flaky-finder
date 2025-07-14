@@ -1,0 +1,304 @@
+=== Log de Testes 521 a 540 ===
+
+
+=== Teste #521 - 2025-07-13 12:15:22 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.895s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #522 - 2025-07-13 12:15:24 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.889s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #523 - 2025-07-13 12:15:25 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.892s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #524 - 2025-07-13 12:15:27 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.884s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #525 - 2025-07-13 12:15:28 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.88s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #526 - 2025-07-13 12:15:30 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.877s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #527 - 2025-07-13 12:15:32 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.878s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #528 - 2025-07-13 12:15:33 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.877s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #529 - 2025-07-13 12:15:35 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.888s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #530 - 2025-07-13 12:15:37 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.868s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #531 - 2025-07-13 12:15:38 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.877s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #532 - 2025-07-13 12:15:40 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.878s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #533 - 2025-07-13 12:15:41 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.876s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #534 - 2025-07-13 12:15:43 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.89s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #535 - 2025-07-13 12:15:45 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (22ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.887s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #536 - 2025-07-13 12:15:46 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.877s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #537 - 2025-07-13 12:15:48 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.894s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #538 - 2025-07-13 12:15:50 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.885s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #539 - 2025-07-13 12:15:51 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.885s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #540 - 2025-07-13 12:15:53 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ executes validators on submit (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        0.876s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "executes validators on submit".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

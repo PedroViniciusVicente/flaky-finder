@@ -1,0 +1,324 @@
+=== Log de Testes 21 a 40 ===
+
+
+=== Teste #21 - 2025-07-13 16:05:27 - PASSOU ===
+(node:103057) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.104s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #22 - 2025-07-13 16:06:22 - PASSOU ===
+(node:103227) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.094s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #23 - 2025-07-13 16:07:10 - PASSOU ===
+(node:103401) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.111s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #24 - 2025-07-13 16:08:12 - PASSOU ===
+(node:103574) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.113s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #25 - 2025-07-13 16:09:01 - PASSOU ===
+(node:103753) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.105s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #26 - 2025-07-13 16:09:58 - PASSOU ===
+(node:103933) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (23ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.121s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #27 - 2025-07-13 16:10:52 - PASSOU ===
+(node:104107) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.143s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #28 - 2025-07-13 16:11:35 - PASSOU ===
+(node:104278) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (22ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.11s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #29 - 2025-07-13 16:12:38 - PASSOU ===
+(node:104444) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.115s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #30 - 2025-07-13 16:13:34 - PASSOU ===
+(node:104623) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.102s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #31 - 2025-07-13 16:14:32 - PASSOU ===
+(node:104789) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.125s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #32 - 2025-07-13 16:15:23 - PASSOU ===
+(node:104978) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.107s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #33 - 2025-07-13 16:16:19 - PASSOU ===
+(node:105151) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.107s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #34 - 2025-07-13 16:17:07 - PASSOU ===
+(node:105321) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.123s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #35 - 2025-07-13 16:18:08 - PASSOU ===
+(node:105495) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (20ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.098s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #36 - 2025-07-13 16:19:18 - PASSOU ===
+(node:105677) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.117s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #37 - 2025-07-13 16:20:21 - PASSOU ===
+(node:105856) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.106s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #38 - 2025-07-13 16:21:15 - PASSOU ===
+(node:106032) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.106s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #39 - 2025-07-13 16:22:06 - PASSOU ===
+(node:106198) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (21ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.113s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #40 - 2025-07-13 16:22:56 - PASSOU ===
+(node:106365) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js
+  ✓ calls onSubmit if validation passes (22ms)
+  ○ skipped 4 tests
+
+Test Suites: 1 passed, 1 total
+Tests:       4 skipped, 1 passed, 5 total
+Snapshots:   0 total
+Time:        1.174s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/CreateAccount\/__tests__\/createAccount.spec.js/i with tests matching "calls onSubmit if validation passes".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

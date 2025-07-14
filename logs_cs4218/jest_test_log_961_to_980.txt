@@ -1,0 +1,464 @@
+=== Log de Testes 961 a 980 ===
+
+
+=== Teste #961 - 2025-07-14 00:05:25 - PASSOU ===
+(node:253054) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (33 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.062 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #962 - 2025-07-14 00:05:26 - PASSOU ===
+(node:253139) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (35 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.074 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #963 - 2025-07-14 00:05:28 - PASSOU ===
+(node:253216) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (33 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.068 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #964 - 2025-07-14 00:05:30 - PASSOU ===
+(node:253305) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (36 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.054 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #965 - 2025-07-14 00:05:31 - PASSOU ===
+(node:253389) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (33 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.145 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #966 - 2025-07-14 00:05:33 - PASSOU ===
+(node:253466) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (34 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.054 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #967 - 2025-07-14 00:05:34 - PASSOU ===
+(node:253555) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (35 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.118 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #968 - 2025-07-14 00:05:36 - PASSOU ===
+(node:253639) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (41 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.044 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #969 - 2025-07-14 00:05:38 - PASSOU ===
+(node:253716) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (32 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.052 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #970 - 2025-07-14 00:05:39 - PASSOU ===
+(node:253804) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (35 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.04 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #971 - 2025-07-14 00:05:41 - PASSOU ===
+(node:253888) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (57 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.05 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #972 - 2025-07-14 00:05:42 - PASSOU ===
+(node:253965) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (33 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.085 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #973 - 2025-07-14 00:05:44 - PASSOU ===
+(node:254042) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (33 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.055 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #974 - 2025-07-14 00:05:45 - PASSOU ===
+(node:254143) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (32 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.049 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #975 - 2025-07-14 00:05:47 - PASSOU ===
+(node:254220) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (32 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.023 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #976 - 2025-07-14 00:05:48 - PASSOU ===
+(node:254297) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (32 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.028 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #977 - 2025-07-14 00:05:50 - PASSOU ===
+(node:254387) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (33 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.008 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #978 - 2025-07-14 00:05:51 - PASSOU ===
+(node:254472) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (32 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.023 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #979 - 2025-07-14 00:05:53 - PASSOU ===
+(node:254549) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (33 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.022 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #980 - 2025-07-14 00:05:54 - PASSOU ===
+(node:254638) [MONGOOSE] Warning: Mongoose: looks like you're trying to test a Mongoose app with Jest's default jsdom test environment. Please make sure you read Mongoose's docs on configuring Jest to test Node.js apps: https://mongoosejs.com/docs/jest.html. Set the SUPPRESS_JEST_WARNINGS to true to hide this warning.
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS controllers/integration-tests/categoryControllerPartA.integration.test.js
+  getAllCategoryController
+    ✓ should return all categories when categories exist (34 ms)
+    ○ skipped should return an empty category list when no categories exist
+    ○ skipped should handle errors gracefully when the database fails
+  singleCategoryController
+    ○ skipped should return 404 when category does not exist
+    ○ skipped should return a category when it exists
+    ○ skipped should handle errors gracefully when the database fails
+
+Test Suites: 1 passed, 1 total
+Tests:       5 skipped, 1 passed, 6 total
+Snapshots:   0 total
+Time:        1.014 s
+Ran all test suites matching /controllers\/integration-tests\/categoryControllerPartA.integration.test.js/i with tests matching "should return all categories when categories exist".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

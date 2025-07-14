@@ -1,0 +1,304 @@
+=== Log de Testes 441 a 460 ===
+
+
+=== Teste #441 - 2025-07-13 13:51:23 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.843s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #442 - 2025-07-13 13:51:25 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (26ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.813s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #443 - 2025-07-13 13:51:27 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.832s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #444 - 2025-07-13 13:51:28 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.833s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #445 - 2025-07-13 13:51:30 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.824s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #446 - 2025-07-13 13:51:31 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.82s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #447 - 2025-07-13 13:51:33 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.823s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #448 - 2025-07-13 13:51:34 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (26ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.823s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #449 - 2025-07-13 13:51:36 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.814s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #450 - 2025-07-13 13:51:37 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.824s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #451 - 2025-07-13 13:51:39 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.828s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #452 - 2025-07-13 13:51:40 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.808s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #453 - 2025-07-13 13:51:42 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.828s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #454 - 2025-07-13 13:51:44 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.837s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #455 - 2025-07-13 13:51:45 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.812s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #456 - 2025-07-13 13:51:47 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.821s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #457 - 2025-07-13 13:51:48 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (25ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.819s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #458 - 2025-07-13 13:51:50 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.825s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #459 - 2025-07-13 13:51:51 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.836s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #460 - 2025-07-13 13:51:53 - PASSOU ===
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        0.832s, estimated 1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

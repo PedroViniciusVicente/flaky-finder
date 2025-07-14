@@ -1,0 +1,324 @@
+=== Log de Testes 1 a 20 ===
+
+
+=== Teste #1 - 2025-07-13 14:07:35 - PASSOU ===
+(node:82451) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (28ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #2 - 2025-07-13 14:08:25 - PASSOU ===
+(node:82521) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (28ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.029s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #3 - 2025-07-13 14:09:14 - PASSOU ===
+(node:82673) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (24ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.018s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #4 - 2025-07-13 14:09:59 - PASSOU ===
+(node:82823) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (25ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.033s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #5 - 2025-07-13 14:10:58 - PASSOU ===
+(node:82973) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.027s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #6 - 2025-07-13 14:11:39 - PASSOU ===
+(node:83125) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (26ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.029s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #7 - 2025-07-13 14:12:23 - PASSOU ===
+(node:83276) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (29ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.024s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #8 - 2025-07-13 14:13:11 - PASSOU ===
+(node:83444) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.082s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #9 - 2025-07-13 14:14:01 - PASSOU ===
+(node:83612) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (24ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.153s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #10 - 2025-07-13 14:14:45 - PASSOU ===
+(node:83781) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.027s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #11 - 2025-07-13 14:15:26 - PASSOU ===
+(node:83946) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (27ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.102s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #12 - 2025-07-13 14:16:11 - PASSOU ===
+(node:84188) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (22ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.046s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #13 - 2025-07-13 14:16:58 - PASSOU ===
+(node:84358) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (25ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.039s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #14 - 2025-07-13 14:17:55 - PASSOU ===
+(node:84521) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (24ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.024s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #15 - 2025-07-13 14:18:43 - PASSOU ===
+(node:84704) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (25ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.054s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #16 - 2025-07-13 14:19:18 - PASSOU ===
+(node:84884) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.006s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #17 - 2025-07-13 14:20:00 - PASSOU ===
+(node:85051) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (25ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.008s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #18 - 2025-07-13 14:20:47 - PASSOU ===
+(node:85225) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (30ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.034s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #19 - 2025-07-13 14:21:42 - PASSOU ===
+(node:85395) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (23ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.065s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Teste #20 - 2025-07-13 14:22:26 - PASSOU ===
+(node:85555) ExperimentalWarning: The fs.promises API is experimental
+PASS Venia Concept packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js
+  ✓ child node correctly sets new root and parent ids (28ms)
+  ○ skipped 1 test
+
+Test Suites: 1 passed, 1 total
+Tests:       1 skipped, 1 passed, 2 total
+Snapshots:   0 total
+Time:        1.072s
+Ran all test suites matching /packages\/venia-concept\/src\/components\/Navigation\/__tests__\/categoryTree.spec.js/i with tests matching "child node correctly sets new root and parent ids".
+
+Código de retorno: 0
+
+================================================================================
+
+=== Fim do Log ===

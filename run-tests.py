@@ -3,16 +3,16 @@ import re
 import os
 from datetime import datetime
 
-# ============= CONFIGURAÇÕES QUE PODEM SER ALTERADAS =============
-PROJECT_ROOT = "projects/pwa-studio"
-LOG_DIRECTORY = "logs_pwa-studio"
-TOTAL_RUNS = 20 
-LOG_INTERVAL = 5
+# ============= CONFIGURAÇÕES =============
+PROJECT_ROOT = "projects/cs4218-2420-ecom-project-team15"
+LOG_DIRECTORY = "logs_cs4218"
+TOTAL_RUNS = 1000
+LOG_INTERVAL = 20
 
 COMMAND = [
     'npx', 'jest', 
-    'packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js',
-    '-t', 'renders category tiles',
+    'controllers/integration-tests/categoryControllerPartA.integration.test.js',
+    '-t', 'should return all categories when categories exist',
     '--coverage=false'
 ]
 # ================================================================

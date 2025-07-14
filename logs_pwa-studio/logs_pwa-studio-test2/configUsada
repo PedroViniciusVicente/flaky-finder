@@ -1,0 +1,13 @@
+# ============= CONFIGURAÇÕES =============
+PROJECT_ROOT = "projects/pwa-studio"
+LOG_DIRECTORY = "logs_pwa-studio-test2"
+TOTAL_RUNS = 1000 
+LOG_INTERVAL = 20
+
+COMMAND = [
+    'npx', 'jest', 
+    'packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js',
+    '-t', 'executes validators on submit',
+    '--coverage=false'
+]
+# ================================================================

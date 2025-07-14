@@ -1,0 +1,6 @@
+=== RELATÓRIO DE TESTES FALHADOS ===
+
+Total de testes executados: 2000
+Total de falhas: 0
+Taxa de falha: 0.00%
+

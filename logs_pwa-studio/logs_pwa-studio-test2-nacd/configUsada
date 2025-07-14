@@ -1,0 +1,14 @@
+# ============= CONFIGURAÇÕES =============
+PROJECT_ROOT = "projects/pwa-studio"
+LOG_DIRECTORY = "logs_pwa-studio-test2-nacd"
+TOTAL_RUNS = 100 
+LOG_INTERVAL = 20
+
+COMMAND = [
+    'nacd', 'plain2',
+    'npx', 'jest', 
+    'packages/venia-concept/src/components/CreateAccount/__tests__/createAccount.spec.js',
+    '-t', 'executes validators on submit',
+    '--coverage=false'
+]
+# ================================================================

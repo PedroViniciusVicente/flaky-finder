@@ -1,0 +1,14 @@
+# ============= CONFIGURAÇÕES =============
+PROJECT_ROOT = "projects/pwa-studio"
+LOG_DIRECTORY = "logs_pwa-studio-test4-nacd"
+TOTAL_RUNS = 100 
+LOG_INTERVAL = 20
+
+COMMAND = [
+    'nacd', 'plain2',
+    'npx', 'jest', 
+    'packages/venia-concept/src/components/Navigation/__tests__/categoryTree.spec.js',
+    '-t', 'child node correctly sets new root and parent ids',
+    '--coverage=false'
+]
+# ================================================================

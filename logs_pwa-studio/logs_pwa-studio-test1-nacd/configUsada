@@ -1,0 +1,14 @@
+# ============= CONFIGURAÇÕES =============
+PROJECT_ROOT = "projects/pwa-studio"
+LOG_DIRECTORY = "logs_pwa-studio-test1-nacd"
+TOTAL_RUNS = 100 
+LOG_INTERVAL = 20
+
+COMMAND = [
+    'nacd', 'plain2',
+    'npx', 'jest', 
+    'packages/venia-concept/src/components/CategoryList/__tests__/categoryList.spec.js',
+    '-t', 'renders category tiles',
+    '--coverage=false'
+]
+# ================================================================
